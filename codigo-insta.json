@@ -1,0 +1,305 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": 314.21586736100096,
+        "y": 0
+      },
+      "caption": "User",
+      "style": {},
+      "labels": [
+        "Person",
+        "Store",
+        "Service"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 633.5,
+        "y": 0
+      },
+      "caption": "Account",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 314.21586736100096,
+        "y": 344.27659254595665
+      },
+      "caption": "Bio",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": -130.6866464430024,
+        "y": 0
+      },
+      "caption": "Publicacoes",
+      "style": {},
+      "labels": [
+        "Status",
+        "Post",
+        "Reel",
+        "Live"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 67.25931728557424,
+        "y": -202.37297183636252
+      },
+      "caption": "Sequidores",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 314.21586736100096,
+        "y": -344.27659254595665
+      },
+      "caption": "Sequindo",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": -397.9411906847629,
+        "y": 97.3206500522025
+      },
+      "caption": "Comentario",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": -397.9411906847629,
+        "y": -217.02852521542766
+      },
+      "caption": "Curtidas",
+      "style": {},
+      "labels": [],
+      "properties": {
+        "contador_curtidas": "int"
+      }
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": -130.6866464430024,
+        "y": -344.27659254595665
+      },
+      "caption": "Salvos",
+      "style": {},
+      "labels": [],
+      "properties": {
+        "contador": ""
+      }
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": -665.1957349265234,
+        "y": 194.64130010440502
+      },
+      "caption": "User",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 557.6561805540449,
+        "y": -243.4403131930439
+      },
+      "caption": "Mensagens",
+      "style": {},
+      "labels": [],
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "type": ":POSSUE",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n1"
+    },
+    {
+      "id": "n1",
+      "type": ":TEM",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n2"
+    },
+    {
+      "id": "n3",
+      "type": ":FAZ",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n4"
+    },
+    {
+      "id": "n4",
+      "type": ":POSSUI",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n5"
+    },
+    {
+      "id": "n5",
+      "type": ":SEQUE",
+      "style": {},
+      "properties": {},
+      "fromId": "n0",
+      "toId": "n6"
+    },
+    {
+      "id": "n7",
+      "type": ":FOI_ADICIONADO",
+      "style": {},
+      "properties": {},
+      "toId": "n4",
+      "fromId": "n7"
+    },
+    {
+      "id": "n8",
+      "type": ":TEM",
+      "style": {},
+      "properties": {},
+      "fromId": "n4",
+      "toId": "n8"
+    },
+    {
+      "id": "n9",
+      "type": ":FORAM_SALVAS",
+      "style": {},
+      "properties": {},
+      "fromId": "n4",
+      "toId": "n9"
+    },
+    {
+      "id": "n10",
+      "type": ":FEZ_COMENTARIO",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n10"
+    },
+    {
+      "id": "n11",
+      "type": ":MANDA",
+      "style": {},
+      "properties": {},
+      "toId": "n11",
+      "fromId": "n0"
+    },
+    {
+      "id": "n12",
+      "type": ":ENTREGUE",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n6"
+    },
+    {
+      "id": "n13",
+      "type": ":MANDAM",
+      "style": {},
+      "properties": {},
+      "fromId": "n5",
+      "toId": "n11"
+    },
+    {
+      "id": "n14",
+      "type": ":RECEBE",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n0"
+    },
+    {
+      "id": "n15",
+      "type": ":TEM",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n8"
+    }
+  ]
+}

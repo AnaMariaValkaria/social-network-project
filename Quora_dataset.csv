@@ -1,0 +1,801 @@
+asker_user_id,question_text,answerer_user_id,answer_text,upvotes,follows
+U14,What is a binary search tree (v1)?,U269,Normalization reduces redundancy and improves data integrity.,46,20
+U23,Explain the difference between stack and queue.,U397,Lists are mutable while tuples are immutable.,11,6
+U105,What is Big O notation in algorithms (v1)?,U269,It finds patterns in unlabeled data.,6,9
+U28,What is a microservice architecture (v1)?,U210,Lists are mutable while tuples are immutable.,20,4
+U98,Explain the CAP theorem in distributed systems.,U338,Overfitting happens when a model memorizes training data.,36,2
+U144,What is a race condition in multithreading (v1)?,U286,Normalization reduces redundancy and improves data integrity.,29,9
+U88,Explain the difference between process and thread.,U214,It uses labeled data for training models.,44,10
+U41,What is a JOIN operation in SQL (v1)?,U235,Lists are mutable while tuples are immutable.,4,18
+U87,Explain ACID properties in databases.,U344,Normalization reduces redundancy and improves data integrity.,2,16
+U86,What is a deadlock in operating systems (v1)?,U380,Kubernetes manages container orchestration.,41,6
+U63,What is a hash table (v1)?,U242,Indexing improves query performance.,2,11
+U1,Explain the concept of dynamic programming.,U312,Docker is used to containerize applications.,37,0
+U199,What is a RESTful web service (v1)?,U223,Java automatically frees unused objects using garbage collection.,49,6
+U153,Explain event-driven architecture.,U297,Docker is used to containerize applications.,37,11
+U18,What is a message queue in distributed systems (v1)?,U202,It finds patterns in unlabeled data.,14,19
+U81,Explain the difference between TCP and UDP.,U388,Indexing improves query performance.,12,15
+U115,What is a virtual machine (v1)?,U227,It finds patterns in unlabeled data.,14,12
+U12,Explain the concept of containerization.,U224,Java automatically frees unused objects using garbage collection.,28,3
+U171,What is continuous integration (v1)?,U237,Kubernetes manages container orchestration.,14,14
+U33,Explain continuous deployment.,U206,Kubernetes manages container orchestration.,41,15
+U75,What is a load balancer (v1)?,U311,Normalization reduces redundancy and improves data integrity.,25,1
+U147,Explain horizontal vs vertical scaling.,U323,It uses labeled data for training models.,50,6
+U68,What is a graph database (v1)?,U321,Lists are mutable while tuples are immutable.,30,10
+U10,Explain normalization vs denormalization.,U397,Kubernetes manages container orchestration.,22,18
+U79,What is a primary key in a database (v1)?,U288,Kubernetes manages container orchestration.,31,17
+U134,Explain foreign key constraints.,U324,PageRank measures importance of nodes in a graph.,12,13
+U53,What is overfitting in deep learning (v1)?,U356,It provides computing services over the internet.,42,13
+U164,Explain gradient descent.,U335,Docker is used to containerize applications.,25,12
+U145,What is transfer learning (v1)?,U281,Indexing improves query performance.,42,5
+U4,Explain convolutional neural networks.,U302,Overfitting happens when a model memorizes training data.,35,1
+U197,What is a recurrent neural network (v1)?,U366,Lists are mutable while tuples are immutable.,44,13
+U132,Explain L1 vs L2 regularization.,U312,It finds patterns in unlabeled data.,5,14
+U176,What is a NoSQL database (v1)?,U338,It uses labeled data for training models.,27,15
+U164,Explain eventual consistency.,U371,It provides computing services over the internet.,38,3
+U153,What is a blockchain (v1)?,U325,HTTPS encrypts data using SSL/TLS.,6,8
+U134,Explain public key cryptography.,U372,Indexing improves query performance.,2,18
+U108,What is OAuth 2.0 (v1)?,U296,Docker is used to containerize applications.,47,11
+U131,Explain JWT-based authentication.,U209,PageRank measures importance of nodes in a graph.,24,15
+U194,What is a CDN (v1)?,U366,"CI/CD automates build, test, and deployment.",29,5
+U47,Explain DNS resolution.,U386,Docker is used to containerize applications.,47,18
+U22,What is a firewall in networking (v1)?,U325,It uses labeled data for training models.,34,3
+U169,Explain zero trust security.,U268,Kubernetes manages container orchestration.,32,10
+U44,What is an API gateway (v1)?,U286,Overfitting happens when a model memorizes training data.,18,12
+U87,Explain blue-green deployment.,U342,It finds patterns in unlabeled data.,8,6
+U101,What is canary release in DevOps (v1)?,U219,Java automatically frees unused objects using garbage collection.,2,4
+U186,Explain infrastructure as code.,U317,It provides computing services over the internet.,50,18
+U100,What is a monolithic application (v1)?,U347,Docker is used to containerize applications.,36,15
+U200,Explain dependency injection.,U287,Java automatically frees unused objects using garbage collection.,33,9
+U5,What is a design pattern in software engineering (v1)?,U249,Kubernetes manages container orchestration.,41,8
+U151,Explain the singleton pattern.,U223,Normalization reduces redundancy and improves data integrity.,7,10
+U161,What is the observer pattern (v1)?,U294,REST API allows communication using HTTP methods.,7,19
+U4,Explain the model-view-controller architecture.,U291,It provides computing services over the internet.,22,8
+U59,What is latency vs throughput (v1)?,U304,It uses labeled data for training models.,21,8
+U137,Explain sharding in databases (v1)?,U329,It uses labeled data for training models.,19,8
+U186,What is a distributed cache (v1)?,U216,Indexing improves query performance.,37,8
+U164,Explain the producer-consumer problem.,U274,PageRank measures importance of nodes in a graph.,10,3
+U127,What is two-factor authentication (v1)?,U396,Multithreading allows concurrent execution of threads.,12,5
+U162,Explain SQL injection attacks.,U385,Java automatically frees unused objects using garbage collection.,18,18
+U60,What is cross-site scripting (XSS) (v1)?,U340,Overfitting happens when a model memorizes training data.,11,0
+U124,Explain cross-site request forgery (CSRF).,U246,Kubernetes manages container orchestration.,48,2
+U40,What is serverless computing (v1)?,U338,Indexing improves query performance.,38,0
+U114,Explain function as a service.,U297,It uses labeled data for training models.,25,10
+U193,What is a service mesh (v1)?,U319,Docker is used to containerize applications.,2,1
+U12,Explain gRPC.,U203,Lists are mutable while tuples are immutable.,26,9
+U35,What is WebSocket communication (v1)?,U317,Java automatically frees unused objects using garbage collection.,18,9
+U50,Explain optimistic UI updates.,U206,It provides computing services over the internet.,28,14
+U66,What is an event loop in JavaScript (v1)?,U291,It uses labeled data for training models.,5,17
+U176,Explain promises vs async/await.,U270,Lists are mutable while tuples are immutable.,1,15
+U112,What is garbage collection in managed languages (v1)?,U363,Docker is used to containerize applications.,3,0
+U108,Explain reference counting vs tracing GC.,U201,"CI/CD automates build, test, and deployment.",17,3
+U28,What is tail-call optimization (v1)?,U359,It provides computing services over the internet.,31,16
+U17,Explain immutable data structures.,U331,Lists are mutable while tuples are immutable.,31,0
+U91,What is reactive programming (v1)?,U382,It finds patterns in unlabeled data.,20,20
+U23,Explain REST vs GraphQL.,U222,Multithreading allows concurrent execution of threads.,24,0
+U111,What is a data warehouse (v1)?,U203,It provides computing services over the internet.,12,11
+U138,Explain OLTP vs OLAP.,U297,It provides computing services over the internet.,11,19
+U19,What is a data lake (v1)?,U340,PageRank measures importance of nodes in a graph.,29,6
+U178,Explain feature engineering in ML.,U363,"CI/CD automates build, test, and deployment.",16,13
+U104,What is hyperparameter tuning (v1)?,U208,REST API allows communication using HTTP methods.,1,3
+U83,Explain k-means clustering (v1)?,U268,It finds patterns in unlabeled data.,4,5
+U121,What is principal component analysis (v1)?,U209,Indexing improves query performance.,48,3
+U193,Explain A/B testing.,U344,Java automatically frees unused objects using garbage collection.,27,4
+U86,What is a feature flag (v1)?,U307,Lists are mutable while tuples are immutable.,7,18
+U90,Explain circuit breaker pattern.,U207,REST API allows communication using HTTP methods.,13,11
+U164,What is backpressure in streaming systems (v1)?,U363,It provides computing services over the internet.,19,15
+U42,Explain idempotent operations in APIs.,U308,Multithreading allows concurrent execution of threads.,9,20
+U17,What is a bloom filter (v1)?,U384,Indexing improves query performance.,10,14
+U174,Explain consistent hashing.,U237,REST API allows communication using HTTP methods.,33,5
+U96,What is a rollback in transactions (v1)?,U372,Kubernetes manages container orchestration.,48,2
+U61,Explain distributed tracing.,U391,REST API allows communication using HTTP methods.,9,3
+U21,What is a log aggregation system (v1)?,U361,Docker is used to containerize applications.,47,11
+U15,Explain time complexity vs space complexity.,U395,"CI/CD automates build, test, and deployment.",14,2
+U133,What is memoization in programming (v1)?,U300,Docker is used to containerize applications.,9,8
+U138,Explain pure functions in functional programming.,U279,Normalization reduces redundancy and improves data integrity.,48,7
+U38,What is a lambda expression (v1)?,U368,REST API allows communication using HTTP methods.,10,7
+U198,Explain type inference in statically typed languages.,U275,Java automatically frees unused objects using garbage collection.,2,1
+U199,What is a binary search tree (v2)?,U300,Docker is used to containerize applications.,21,0
+U95,What is Big O notation in algorithms (v2)?,U233,Overfitting happens when a model memorizes training data.,42,0
+U137,What is a microservice architecture (v2)?,U287,Indexing improves query performance.,26,13
+U133,What is a race condition in multithreading (v2)?,U231,Docker is used to containerize applications.,16,14
+U162,What is a JOIN operation in SQL (v2)?,U243,Normalization reduces redundancy and improves data integrity.,11,12
+U151,What is a deadlock in operating systems (v2)?,U299,It finds patterns in unlabeled data.,5,1
+U111,What is a hash table (v2)?,U216,HTTPS encrypts data using SSL/TLS.,15,7
+U190,What is a RESTful web service (v2)?,U235,It provides computing services over the internet.,13,14
+U117,What is a message queue in distributed systems (v2)?,U372,Java automatically frees unused objects using garbage collection.,27,0
+U6,What is a virtual machine (v2)?,U290,REST API allows communication using HTTP methods.,11,12
+U116,What is continuous integration (v2)?,U390,PageRank measures importance of nodes in a graph.,42,19
+U190,What is a load balancer (v2)?,U385,Docker is used to containerize applications.,21,6
+U183,What is a graph database (v2)?,U372,Indexing improves query performance.,11,1
+U116,What is a primary key in a database (v2)?,U278,"CI/CD automates build, test, and deployment.",46,10
+U110,What is overfitting in deep learning (v2)?,U399,It finds patterns in unlabeled data.,27,9
+U8,What is transfer learning (v2)?,U241,Normalization reduces redundancy and improves data integrity.,42,14
+U134,What is a recurrent neural network (v2)?,U284,Indexing improves query performance.,35,19
+U133,What is a NoSQL database (v2)?,U332,Lists are mutable while tuples are immutable.,18,9
+U143,What is a blockchain (v2)?,U236,Overfitting happens when a model memorizes training data.,25,18
+U88,What is OAuth 2.0 (v2)?,U329,REST API allows communication using HTTP methods.,9,7
+U27,What is a CDN (v2)?,U340,REST API allows communication using HTTP methods.,15,7
+U186,What is a firewall in networking (v2)?,U295,REST API allows communication using HTTP methods.,4,11
+U58,What is an API gateway (v2)?,U346,Lists are mutable while tuples are immutable.,25,12
+U88,What is canary release in DevOps (v2)?,U224,It provides computing services over the internet.,14,19
+U70,What is a monolithic application (v2)?,U330,It uses labeled data for training models.,27,16
+U63,What is a design pattern in software engineering (v2)?,U253,PageRank measures importance of nodes in a graph.,4,20
+U83,What is the observer pattern (v2)?,U268,Multithreading allows concurrent execution of threads.,8,3
+U102,What is latency vs throughput (v2)?,U212,PageRank measures importance of nodes in a graph.,3,11
+U129,Explain sharding in databases (v2)?,U221,Indexing improves query performance.,2,7
+U51,What is a distributed cache (v2)?,U330,It uses labeled data for training models.,18,8
+U52,What is two-factor authentication (v2)?,U395,Java automatically frees unused objects using garbage collection.,5,10
+U5,What is cross-site scripting (XSS) (v2)?,U250,It provides computing services over the internet.,43,6
+U69,What is serverless computing (v2)?,U345,REST API allows communication using HTTP methods.,49,19
+U60,What is a service mesh (v2)?,U222,HTTPS encrypts data using SSL/TLS.,45,2
+U154,What is WebSocket communication (v2)?,U282,REST API allows communication using HTTP methods.,47,10
+U22,What is an event loop in JavaScript (v2)?,U288,Multithreading allows concurrent execution of threads.,28,11
+U142,What is garbage collection in managed languages (v2)?,U338,Kubernetes manages container orchestration.,25,10
+U35,What is tail-call optimization (v2)?,U337,Docker is used to containerize applications.,2,17
+U35,What is reactive programming (v2)?,U324,Overfitting happens when a model memorizes training data.,8,17
+U127,What is a data warehouse (v2)?,U388,Normalization reduces redundancy and improves data integrity.,27,10
+U102,What is a data lake (v2)?,U399,Normalization reduces redundancy and improves data integrity.,34,14
+U8,What is hyperparameter tuning (v2)?,U266,Lists are mutable while tuples are immutable.,30,8
+U183,Explain k-means clustering (v2)?,U348,REST API allows communication using HTTP methods.,14,6
+U125,What is principal component analysis (v2)?,U288,HTTPS encrypts data using SSL/TLS.,46,10
+U102,What is a feature flag (v2)?,U258,Multithreading allows concurrent execution of threads.,3,1
+U129,What is backpressure in streaming systems (v2)?,U233,Lists are mutable while tuples are immutable.,17,6
+U157,What is a bloom filter (v2)?,U363,"CI/CD automates build, test, and deployment.",37,16
+U2,What is a rollback in transactions (v2)?,U354,Docker is used to containerize applications.,27,11
+U156,What is a log aggregation system (v2)?,U327,It uses labeled data for training models.,35,3
+U88,What is memoization in programming (v2)?,U379,Java automatically frees unused objects using garbage collection.,13,7
+U150,What is a lambda expression (v2)?,U232,Lists are mutable while tuples are immutable.,46,11
+U177,What is a binary search tree (v3)?,U214,Docker is used to containerize applications.,46,15
+U93,What is Big O notation in algorithms (v3)?,U318,PageRank measures importance of nodes in a graph.,40,18
+U93,What is a microservice architecture (v3)?,U372,Lists are mutable while tuples are immutable.,3,9
+U108,What is a race condition in multithreading (v3)?,U281,REST API allows communication using HTTP methods.,39,1
+U92,What is a JOIN operation in SQL (v3)?,U256,It provides computing services over the internet.,47,16
+U198,What is a deadlock in operating systems (v3)?,U315,Overfitting happens when a model memorizes training data.,4,12
+U88,What is a hash table (v3)?,U393,Kubernetes manages container orchestration.,20,19
+U50,What is a RESTful web service (v3)?,U247,PageRank measures importance of nodes in a graph.,23,17
+U98,What is a message queue in distributed systems (v3)?,U216,It uses labeled data for training models.,46,8
+U107,What is a virtual machine (v3)?,U297,"CI/CD automates build, test, and deployment.",49,2
+U129,What is continuous integration (v3)?,U268,It finds patterns in unlabeled data.,33,5
+U45,What is a load balancer (v3)?,U344,"CI/CD automates build, test, and deployment.",21,20
+U97,What is a graph database (v3)?,U295,Lists are mutable while tuples are immutable.,5,0
+U18,What is a primary key in a database (v3)?,U276,REST API allows communication using HTTP methods.,36,19
+U32,What is overfitting in deep learning (v3)?,U268,PageRank measures importance of nodes in a graph.,30,4
+U129,What is transfer learning (v3)?,U355,Indexing improves query performance.,20,18
+U83,What is a recurrent neural network (v3)?,U215,Indexing improves query performance.,31,2
+U98,What is a NoSQL database (v3)?,U214,HTTPS encrypts data using SSL/TLS.,2,1
+U151,What is a blockchain (v3)?,U300,Normalization reduces redundancy and improves data integrity.,25,18
+U77,What is OAuth 2.0 (v3)?,U228,Docker is used to containerize applications.,46,19
+U120,What is a CDN (v3)?,U347,Lists are mutable while tuples are immutable.,6,10
+U196,What is a firewall in networking (v3)?,U381,Lists are mutable while tuples are immutable.,15,12
+U84,What is an API gateway (v3)?,U263,Multithreading allows concurrent execution of threads.,27,14
+U166,What is canary release in DevOps (v3)?,U315,"CI/CD automates build, test, and deployment.",34,0
+U69,What is a monolithic application (v3)?,U313,Lists are mutable while tuples are immutable.,14,18
+U145,What is a design pattern in software engineering (v3)?,U347,Kubernetes manages container orchestration.,45,13
+U89,What is the observer pattern (v3)?,U264,It finds patterns in unlabeled data.,22,17
+U177,What is latency vs throughput (v3)?,U317,It finds patterns in unlabeled data.,7,11
+U129,Explain sharding in databases (v3)?,U348,"CI/CD automates build, test, and deployment.",30,0
+U71,What is a distributed cache (v3)?,U287,Normalization reduces redundancy and improves data integrity.,14,12
+U13,What is two-factor authentication (v3)?,U247,Docker is used to containerize applications.,35,13
+U32,What is cross-site scripting (XSS) (v3)?,U206,"CI/CD automates build, test, and deployment.",13,1
+U110,What is serverless computing (v3)?,U370,Java automatically frees unused objects using garbage collection.,12,18
+U128,What is a service mesh (v3)?,U388,Multithreading allows concurrent execution of threads.,3,20
+U34,What is WebSocket communication (v3)?,U323,Java automatically frees unused objects using garbage collection.,48,8
+U137,What is an event loop in JavaScript (v3)?,U211,Normalization reduces redundancy and improves data integrity.,6,13
+U121,What is garbage collection in managed languages (v3)?,U339,REST API allows communication using HTTP methods.,47,20
+U37,What is tail-call optimization (v3)?,U284,Indexing improves query performance.,11,2
+U95,What is reactive programming (v3)?,U257,"CI/CD automates build, test, and deployment.",11,10
+U154,What is a data warehouse (v3)?,U209,Overfitting happens when a model memorizes training data.,9,17
+U119,What is a data lake (v3)?,U330,"CI/CD automates build, test, and deployment.",8,12
+U154,What is hyperparameter tuning (v3)?,U399,It finds patterns in unlabeled data.,3,3
+U74,Explain k-means clustering (v3)?,U381,It provides computing services over the internet.,40,7
+U149,What is principal component analysis (v3)?,U204,It provides computing services over the internet.,5,10
+U83,What is a feature flag (v3)?,U387,Indexing improves query performance.,4,1
+U99,What is backpressure in streaming systems (v3)?,U259,It finds patterns in unlabeled data.,12,10
+U177,What is a bloom filter (v3)?,U217,Overfitting happens when a model memorizes training data.,12,9
+U65,What is a rollback in transactions (v3)?,U273,HTTPS encrypts data using SSL/TLS.,15,6
+U44,What is a log aggregation system (v3)?,U307,Indexing improves query performance.,11,4
+U92,What is memoization in programming (v3)?,U309,Docker is used to containerize applications.,39,4
+U12,What is a lambda expression (v3)?,U356,PageRank measures importance of nodes in a graph.,47,18
+U4,What is a binary search tree (v4)?,U328,Indexing improves query performance.,19,10
+U173,What is Big O notation in algorithms (v4)?,U243,Java automatically frees unused objects using garbage collection.,17,19
+U51,What is a microservice architecture (v4)?,U212,HTTPS encrypts data using SSL/TLS.,22,12
+U69,What is a race condition in multithreading (v4)?,U335,It uses labeled data for training models.,44,10
+U43,What is a JOIN operation in SQL (v4)?,U396,Normalization reduces redundancy and improves data integrity.,27,0
+U189,What is a deadlock in operating systems (v4)?,U336,"CI/CD automates build, test, and deployment.",28,13
+U50,What is a hash table (v4)?,U278,Java automatically frees unused objects using garbage collection.,20,15
+U128,What is a RESTful web service (v4)?,U320,Java automatically frees unused objects using garbage collection.,27,16
+U58,What is a message queue in distributed systems (v4)?,U273,"CI/CD automates build, test, and deployment.",11,14
+U136,What is a virtual machine (v4)?,U224,It uses labeled data for training models.,17,16
+U27,What is continuous integration (v4)?,U314,PageRank measures importance of nodes in a graph.,39,17
+U157,What is a load balancer (v4)?,U340,Overfitting happens when a model memorizes training data.,5,9
+U143,What is a graph database (v4)?,U272,It finds patterns in unlabeled data.,28,15
+U50,What is a primary key in a database (v4)?,U334,Normalization reduces redundancy and improves data integrity.,36,9
+U18,What is overfitting in deep learning (v4)?,U363,HTTPS encrypts data using SSL/TLS.,29,15
+U101,What is transfer learning (v4)?,U305,Overfitting happens when a model memorizes training data.,48,0
+U115,What is a recurrent neural network (v4)?,U229,Overfitting happens when a model memorizes training data.,17,8
+U16,What is a NoSQL database (v4)?,U346,Docker is used to containerize applications.,40,6
+U111,What is a blockchain (v4)?,U395,Multithreading allows concurrent execution of threads.,33,17
+U168,What is OAuth 2.0 (v4)?,U312,HTTPS encrypts data using SSL/TLS.,41,5
+U133,What is a CDN (v4)?,U292,Kubernetes manages container orchestration.,24,14
+U40,What is a firewall in networking (v4)?,U327,Overfitting happens when a model memorizes training data.,42,18
+U35,What is an API gateway (v4)?,U250,It finds patterns in unlabeled data.,38,8
+U55,What is canary release in DevOps (v4)?,U262,Multithreading allows concurrent execution of threads.,29,15
+U10,What is a monolithic application (v4)?,U263,Normalization reduces redundancy and improves data integrity.,40,19
+U54,What is a design pattern in software engineering (v4)?,U219,PageRank measures importance of nodes in a graph.,46,2
+U104,What is the observer pattern (v4)?,U207,Normalization reduces redundancy and improves data integrity.,18,9
+U3,What is latency vs throughput (v4)?,U306,It provides computing services over the internet.,11,19
+U168,Explain sharding in databases (v4)?,U283,Java automatically frees unused objects using garbage collection.,27,10
+U141,What is a distributed cache (v4)?,U208,Docker is used to containerize applications.,1,0
+U11,What is two-factor authentication (v4)?,U264,Docker is used to containerize applications.,16,14
+U188,What is cross-site scripting (XSS) (v4)?,U312,Lists are mutable while tuples are immutable.,35,12
+U179,What is serverless computing (v4)?,U275,PageRank measures importance of nodes in a graph.,25,7
+U48,What is a service mesh (v4)?,U278,"CI/CD automates build, test, and deployment.",16,17
+U29,What is WebSocket communication (v4)?,U273,It uses labeled data for training models.,39,9
+U172,What is an event loop in JavaScript (v4)?,U365,Kubernetes manages container orchestration.,35,16
+U84,What is garbage collection in managed languages (v4)?,U255,Indexing improves query performance.,49,10
+U132,What is tail-call optimization (v4)?,U207,It finds patterns in unlabeled data.,19,14
+U192,What is reactive programming (v4)?,U293,Indexing improves query performance.,44,8
+U40,What is a data warehouse (v4)?,U320,Multithreading allows concurrent execution of threads.,1,20
+U58,What is a data lake (v4)?,U307,Normalization reduces redundancy and improves data integrity.,33,13
+U57,What is hyperparameter tuning (v4)?,U331,"CI/CD automates build, test, and deployment.",23,11
+U170,Explain k-means clustering (v4)?,U312,Lists are mutable while tuples are immutable.,15,19
+U101,What is principal component analysis (v4)?,U344,PageRank measures importance of nodes in a graph.,5,8
+U49,What is a feature flag (v4)?,U300,Indexing improves query performance.,21,0
+U20,What is backpressure in streaming systems (v4)?,U328,Overfitting happens when a model memorizes training data.,4,16
+U11,What is a bloom filter (v4)?,U274,It uses labeled data for training models.,20,15
+U36,What is a rollback in transactions (v4)?,U322,Multithreading allows concurrent execution of threads.,1,1
+U188,What is a log aggregation system (v4)?,U385,It provides computing services over the internet.,17,20
+U28,What is memoization in programming (v4)?,U233,PageRank measures importance of nodes in a graph.,3,8
+U32,What is a lambda expression (v4)?,U318,PageRank measures importance of nodes in a graph.,41,11
+U91,What is a binary search tree (v5)?,U342,It finds patterns in unlabeled data.,5,14
+U158,What is Big O notation in algorithms (v5)?,U205,REST API allows communication using HTTP methods.,16,0
+U114,What is a microservice architecture (v5)?,U334,Normalization reduces redundancy and improves data integrity.,23,19
+U91,What is a race condition in multithreading (v5)?,U274,It uses labeled data for training models.,46,8
+U93,What is a JOIN operation in SQL (v5)?,U255,It finds patterns in unlabeled data.,2,0
+U100,What is a deadlock in operating systems (v5)?,U213,"CI/CD automates build, test, and deployment.",45,19
+U28,What is a hash table (v5)?,U331,Kubernetes manages container orchestration.,6,0
+U193,What is a RESTful web service (v5)?,U225,HTTPS encrypts data using SSL/TLS.,49,0
+U152,What is a message queue in distributed systems (v5)?,U371,Normalization reduces redundancy and improves data integrity.,3,17
+U84,What is a virtual machine (v5)?,U389,Overfitting happens when a model memorizes training data.,41,18
+U22,What is continuous integration (v5)?,U400,Lists are mutable while tuples are immutable.,11,19
+U172,What is a load balancer (v5)?,U253,Overfitting happens when a model memorizes training data.,13,13
+U99,What is a graph database (v5)?,U247,PageRank measures importance of nodes in a graph.,36,19
+U108,What is a primary key in a database (v5)?,U233,Indexing improves query performance.,48,4
+U122,What is overfitting in deep learning (v5)?,U236,Multithreading allows concurrent execution of threads.,17,17
+U2,What is transfer learning (v5)?,U242,Overfitting happens when a model memorizes training data.,36,18
+U23,What is a recurrent neural network (v5)?,U285,REST API allows communication using HTTP methods.,47,20
+U9,What is a NoSQL database (v5)?,U226,REST API allows communication using HTTP methods.,33,19
+U38,What is a blockchain (v5)?,U257,Overfitting happens when a model memorizes training data.,46,13
+U118,What is OAuth 2.0 (v5)?,U311,Lists are mutable while tuples are immutable.,30,8
+U52,What is a CDN (v5)?,U370,Normalization reduces redundancy and improves data integrity.,40,12
+U104,What is a firewall in networking (v5)?,U216,HTTPS encrypts data using SSL/TLS.,41,0
+U15,What is an API gateway (v5)?,U239,"CI/CD automates build, test, and deployment.",39,1
+U30,What is canary release in DevOps (v5)?,U319,"CI/CD automates build, test, and deployment.",16,13
+U179,What is a monolithic application (v5)?,U224,It finds patterns in unlabeled data.,39,16
+U35,What is a design pattern in software engineering (v5)?,U372,Overfitting happens when a model memorizes training data.,7,3
+U11,What is the observer pattern (v5)?,U292,It finds patterns in unlabeled data.,37,4
+U113,What is latency vs throughput (v5)?,U253,"CI/CD automates build, test, and deployment.",42,3
+U62,Explain sharding in databases (v5)?,U261,Kubernetes manages container orchestration.,37,18
+U111,What is a distributed cache (v5)?,U288,Indexing improves query performance.,27,15
+U172,What is two-factor authentication (v5)?,U237,Normalization reduces redundancy and improves data integrity.,27,8
+U23,What is cross-site scripting (XSS) (v5)?,U373,Overfitting happens when a model memorizes training data.,6,1
+U3,What is serverless computing (v5)?,U275,Indexing improves query performance.,21,16
+U84,What is a service mesh (v5)?,U372,Normalization reduces redundancy and improves data integrity.,8,5
+U103,What is WebSocket communication (v5)?,U289,"CI/CD automates build, test, and deployment.",15,17
+U59,What is an event loop in JavaScript (v5)?,U216,Kubernetes manages container orchestration.,2,10
+U15,What is garbage collection in managed languages (v5)?,U341,Normalization reduces redundancy and improves data integrity.,48,17
+U17,What is tail-call optimization (v5)?,U229,"CI/CD automates build, test, and deployment.",12,4
+U64,What is reactive programming (v5)?,U274,Kubernetes manages container orchestration.,25,20
+U61,What is a data warehouse (v5)?,U233,Lists are mutable while tuples are immutable.,26,1
+U143,What is a data lake (v5)?,U201,"CI/CD automates build, test, and deployment.",4,18
+U155,What is hyperparameter tuning (v5)?,U397,HTTPS encrypts data using SSL/TLS.,34,9
+U165,Explain k-means clustering (v5)?,U340,HTTPS encrypts data using SSL/TLS.,50,0
+U68,What is principal component analysis (v5)?,U308,It provides computing services over the internet.,4,4
+U143,What is a feature flag (v5)?,U295,Kubernetes manages container orchestration.,7,15
+U95,What is backpressure in streaming systems (v5)?,U361,PageRank measures importance of nodes in a graph.,43,11
+U34,What is a bloom filter (v5)?,U307,Java automatically frees unused objects using garbage collection.,29,9
+U9,What is a rollback in transactions (v5)?,U355,Docker is used to containerize applications.,4,15
+U75,What is a log aggregation system (v5)?,U290,Lists are mutable while tuples are immutable.,49,18
+U81,What is memoization in programming (v5)?,U377,PageRank measures importance of nodes in a graph.,16,6
+U1,What is a lambda expression (v5)?,U290,Java automatically frees unused objects using garbage collection.,26,17
+U130,What is a binary search tree (v6)?,U395,Overfitting happens when a model memorizes training data.,30,2
+U1,What is Big O notation in algorithms (v6)?,U366,Overfitting happens when a model memorizes training data.,32,4
+U76,What is a microservice architecture (v6)?,U221,Java automatically frees unused objects using garbage collection.,11,16
+U97,What is a race condition in multithreading (v6)?,U385,PageRank measures importance of nodes in a graph.,20,0
+U48,What is a JOIN operation in SQL (v6)?,U357,It finds patterns in unlabeled data.,22,8
+U84,What is a deadlock in operating systems (v6)?,U314,Indexing improves query performance.,13,2
+U27,What is a hash table (v6)?,U388,It provides computing services over the internet.,49,2
+U153,What is a RESTful web service (v6)?,U391,Java automatically frees unused objects using garbage collection.,32,14
+U137,What is a message queue in distributed systems (v6)?,U251,Kubernetes manages container orchestration.,41,7
+U103,What is a virtual machine (v6)?,U363,It finds patterns in unlabeled data.,3,7
+U174,What is continuous integration (v6)?,U219,REST API allows communication using HTTP methods.,19,1
+U50,What is a load balancer (v6)?,U253,Kubernetes manages container orchestration.,48,20
+U185,What is a graph database (v6)?,U292,Java automatically frees unused objects using garbage collection.,12,3
+U110,What is a primary key in a database (v6)?,U400,It finds patterns in unlabeled data.,45,18
+U124,What is overfitting in deep learning (v6)?,U273,It uses labeled data for training models.,47,17
+U168,What is transfer learning (v6)?,U342,Normalization reduces redundancy and improves data integrity.,21,10
+U140,What is a recurrent neural network (v6)?,U242,Overfitting happens when a model memorizes training data.,15,11
+U100,What is a NoSQL database (v6)?,U207,Multithreading allows concurrent execution of threads.,33,6
+U67,What is a blockchain (v6)?,U387,"CI/CD automates build, test, and deployment.",15,18
+U8,What is OAuth 2.0 (v6)?,U396,PageRank measures importance of nodes in a graph.,18,17
+U161,What is a CDN (v6)?,U373,PageRank measures importance of nodes in a graph.,24,12
+U42,What is a firewall in networking (v6)?,U400,It provides computing services over the internet.,37,16
+U50,What is an API gateway (v6)?,U294,PageRank measures importance of nodes in a graph.,16,20
+U48,What is canary release in DevOps (v6)?,U226,Multithreading allows concurrent execution of threads.,35,1
+U35,What is a monolithic application (v6)?,U383,Multithreading allows concurrent execution of threads.,10,3
+U155,What is a design pattern in software engineering (v6)?,U226,"CI/CD automates build, test, and deployment.",41,1
+U70,What is the observer pattern (v6)?,U232,Indexing improves query performance.,37,4
+U19,What is latency vs throughput (v6)?,U293,It finds patterns in unlabeled data.,7,9
+U15,Explain sharding in databases (v6)?,U266,HTTPS encrypts data using SSL/TLS.,37,18
+U93,What is a distributed cache (v6)?,U234,Kubernetes manages container orchestration.,30,19
+U65,What is two-factor authentication (v6)?,U306,It provides computing services over the internet.,36,18
+U24,What is cross-site scripting (XSS) (v6)?,U359,Multithreading allows concurrent execution of threads.,3,20
+U67,What is serverless computing (v6)?,U333,PageRank measures importance of nodes in a graph.,2,2
+U142,What is a service mesh (v6)?,U231,Indexing improves query performance.,5,18
+U171,What is WebSocket communication (v6)?,U337,HTTPS encrypts data using SSL/TLS.,44,11
+U31,What is an event loop in JavaScript (v6)?,U285,Java automatically frees unused objects using garbage collection.,24,10
+U74,What is garbage collection in managed languages (v6)?,U364,Overfitting happens when a model memorizes training data.,23,18
+U196,What is tail-call optimization (v6)?,U369,It uses labeled data for training models.,6,12
+U79,What is reactive programming (v6)?,U313,It provides computing services over the internet.,19,9
+U61,What is a data warehouse (v6)?,U202,HTTPS encrypts data using SSL/TLS.,33,6
+U24,What is a data lake (v6)?,U229,REST API allows communication using HTTP methods.,33,14
+U159,What is hyperparameter tuning (v6)?,U226,It provides computing services over the internet.,33,19
+U197,Explain k-means clustering (v6)?,U313,Lists are mutable while tuples are immutable.,12,20
+U100,What is principal component analysis (v6)?,U292,PageRank measures importance of nodes in a graph.,36,14
+U173,What is a feature flag (v6)?,U247,Lists are mutable while tuples are immutable.,42,5
+U34,What is backpressure in streaming systems (v6)?,U300,Lists are mutable while tuples are immutable.,27,16
+U1,What is a bloom filter (v6)?,U307,"CI/CD automates build, test, and deployment.",33,20
+U54,What is a rollback in transactions (v6)?,U262,Java automatically frees unused objects using garbage collection.,44,0
+U2,What is a log aggregation system (v6)?,U307,PageRank measures importance of nodes in a graph.,39,8
+U34,What is memoization in programming (v6)?,U222,"CI/CD automates build, test, and deployment.",37,7
+U45,What is a lambda expression (v6)?,U338,It provides computing services over the internet.,14,7
+U69,What is a binary search tree (v7)?,U308,It finds patterns in unlabeled data.,29,11
+U44,What is Big O notation in algorithms (v7)?,U400,Java automatically frees unused objects using garbage collection.,6,20
+U100,What is a microservice architecture (v7)?,U279,REST API allows communication using HTTP methods.,34,14
+U17,What is a race condition in multithreading (v7)?,U207,It uses labeled data for training models.,27,2
+U32,What is a JOIN operation in SQL (v7)?,U346,It uses labeled data for training models.,16,10
+U101,What is a deadlock in operating systems (v7)?,U269,"CI/CD automates build, test, and deployment.",40,16
+U146,What is a hash table (v7)?,U214,"CI/CD automates build, test, and deployment.",1,5
+U164,What is a RESTful web service (v7)?,U373,REST API allows communication using HTTP methods.,3,19
+U140,What is a message queue in distributed systems (v7)?,U383,HTTPS encrypts data using SSL/TLS.,50,17
+U49,What is a virtual machine (v7)?,U280,It provides computing services over the internet.,10,16
+U80,What is continuous integration (v7)?,U353,Overfitting happens when a model memorizes training data.,41,3
+U141,What is a load balancer (v7)?,U370,Java automatically frees unused objects using garbage collection.,18,11
+U87,What is a graph database (v7)?,U206,It finds patterns in unlabeled data.,39,7
+U171,What is a primary key in a database (v7)?,U238,It provides computing services over the internet.,2,19
+U79,What is overfitting in deep learning (v7)?,U273,Docker is used to containerize applications.,23,0
+U52,What is transfer learning (v7)?,U310,Multithreading allows concurrent execution of threads.,21,0
+U55,What is a recurrent neural network (v7)?,U328,Multithreading allows concurrent execution of threads.,43,8
+U12,What is a NoSQL database (v7)?,U309,It provides computing services over the internet.,40,2
+U17,What is a blockchain (v7)?,U240,"CI/CD automates build, test, and deployment.",1,2
+U44,What is OAuth 2.0 (v7)?,U371,Lists are mutable while tuples are immutable.,40,9
+U13,What is a CDN (v7)?,U341,It provides computing services over the internet.,5,8
+U57,What is a firewall in networking (v7)?,U217,Docker is used to containerize applications.,29,19
+U115,What is an API gateway (v7)?,U349,PageRank measures importance of nodes in a graph.,31,1
+U49,What is canary release in DevOps (v7)?,U303,Normalization reduces redundancy and improves data integrity.,8,17
+U146,What is a monolithic application (v7)?,U384,It uses labeled data for training models.,18,20
+U112,What is a design pattern in software engineering (v7)?,U383,PageRank measures importance of nodes in a graph.,15,19
+U137,What is the observer pattern (v7)?,U294,Overfitting happens when a model memorizes training data.,30,13
+U20,What is latency vs throughput (v7)?,U256,Lists are mutable while tuples are immutable.,28,16
+U23,Explain sharding in databases (v7)?,U313,Java automatically frees unused objects using garbage collection.,3,2
+U11,What is a distributed cache (v7)?,U337,Kubernetes manages container orchestration.,17,4
+U80,What is two-factor authentication (v7)?,U380,Java automatically frees unused objects using garbage collection.,20,14
+U8,What is cross-site scripting (XSS) (v7)?,U254,"CI/CD automates build, test, and deployment.",45,14
+U173,What is serverless computing (v7)?,U210,It finds patterns in unlabeled data.,24,2
+U40,What is a service mesh (v7)?,U365,Overfitting happens when a model memorizes training data.,27,0
+U135,What is WebSocket communication (v7)?,U226,Indexing improves query performance.,2,13
+U183,What is an event loop in JavaScript (v7)?,U213,Kubernetes manages container orchestration.,37,17
+U106,What is garbage collection in managed languages (v7)?,U388,Java automatically frees unused objects using garbage collection.,43,14
+U121,What is tail-call optimization (v7)?,U358,PageRank measures importance of nodes in a graph.,17,3
+U99,What is reactive programming (v7)?,U286,HTTPS encrypts data using SSL/TLS.,21,11
+U170,What is a data warehouse (v7)?,U247,Multithreading allows concurrent execution of threads.,7,19
+U165,What is a data lake (v7)?,U369,Overfitting happens when a model memorizes training data.,40,12
+U104,What is hyperparameter tuning (v7)?,U310,It finds patterns in unlabeled data.,48,14
+U169,Explain k-means clustering (v7)?,U375,Java automatically frees unused objects using garbage collection.,28,5
+U27,What is principal component analysis (v7)?,U223,It finds patterns in unlabeled data.,13,16
+U12,What is a feature flag (v7)?,U256,It finds patterns in unlabeled data.,48,12
+U39,What is backpressure in streaming systems (v7)?,U369,Java automatically frees unused objects using garbage collection.,18,9
+U165,What is a bloom filter (v7)?,U235,PageRank measures importance of nodes in a graph.,11,2
+U181,What is a rollback in transactions (v7)?,U370,PageRank measures importance of nodes in a graph.,42,5
+U150,What is a log aggregation system (v7)?,U278,Docker is used to containerize applications.,10,9
+U94,What is memoization in programming (v7)?,U331,PageRank measures importance of nodes in a graph.,25,5
+U108,What is a lambda expression (v7)?,U381,Lists are mutable while tuples are immutable.,15,8
+U68,What is a binary search tree (v8)?,U273,It uses labeled data for training models.,43,18
+U106,What is Big O notation in algorithms (v8)?,U248,Java automatically frees unused objects using garbage collection.,9,0
+U137,What is a microservice architecture (v8)?,U336,REST API allows communication using HTTP methods.,18,9
+U170,What is a race condition in multithreading (v8)?,U341,Indexing improves query performance.,21,7
+U24,What is a JOIN operation in SQL (v8)?,U201,Docker is used to containerize applications.,27,6
+U149,What is a deadlock in operating systems (v8)?,U355,It provides computing services over the internet.,9,14
+U182,What is a hash table (v8)?,U237,PageRank measures importance of nodes in a graph.,17,1
+U134,What is a RESTful web service (v8)?,U395,Indexing improves query performance.,30,14
+U153,What is a message queue in distributed systems (v8)?,U370,Overfitting happens when a model memorizes training data.,39,0
+U154,What is a virtual machine (v8)?,U226,PageRank measures importance of nodes in a graph.,12,16
+U117,What is continuous integration (v8)?,U368,Normalization reduces redundancy and improves data integrity.,30,12
+U64,What is a load balancer (v8)?,U361,Java automatically frees unused objects using garbage collection.,5,7
+U142,What is a graph database (v8)?,U323,Overfitting happens when a model memorizes training data.,13,7
+U8,What is a primary key in a database (v8)?,U296,REST API allows communication using HTTP methods.,42,6
+U76,What is overfitting in deep learning (v8)?,U393,It finds patterns in unlabeled data.,32,20
+U120,What is transfer learning (v8)?,U296,HTTPS encrypts data using SSL/TLS.,29,9
+U166,What is a recurrent neural network (v8)?,U390,It finds patterns in unlabeled data.,6,6
+U73,What is a NoSQL database (v8)?,U338,Normalization reduces redundancy and improves data integrity.,44,6
+U196,What is a blockchain (v8)?,U345,PageRank measures importance of nodes in a graph.,49,16
+U151,What is OAuth 2.0 (v8)?,U367,It finds patterns in unlabeled data.,41,17
+U87,What is a CDN (v8)?,U251,Multithreading allows concurrent execution of threads.,5,3
+U44,What is a firewall in networking (v8)?,U211,Lists are mutable while tuples are immutable.,50,17
+U96,What is an API gateway (v8)?,U214,It uses labeled data for training models.,1,1
+U150,What is canary release in DevOps (v8)?,U225,Docker is used to containerize applications.,5,2
+U126,What is a monolithic application (v8)?,U296,Overfitting happens when a model memorizes training data.,19,16
+U194,What is a design pattern in software engineering (v8)?,U308,"CI/CD automates build, test, and deployment.",39,1
+U170,What is the observer pattern (v8)?,U246,PageRank measures importance of nodes in a graph.,38,11
+U27,What is latency vs throughput (v8)?,U369,"CI/CD automates build, test, and deployment.",21,0
+U159,Explain sharding in databases (v8)?,U219,It provides computing services over the internet.,15,13
+U60,What is a distributed cache (v8)?,U347,REST API allows communication using HTTP methods.,18,0
+U99,What is two-factor authentication (v8)?,U235,Indexing improves query performance.,19,13
+U130,What is cross-site scripting (XSS) (v8)?,U374,Lists are mutable while tuples are immutable.,28,17
+U183,What is serverless computing (v8)?,U226,"CI/CD automates build, test, and deployment.",24,2
+U196,What is a service mesh (v8)?,U325,HTTPS encrypts data using SSL/TLS.,22,1
+U135,What is WebSocket communication (v8)?,U394,Kubernetes manages container orchestration.,10,5
+U60,What is an event loop in JavaScript (v8)?,U361,HTTPS encrypts data using SSL/TLS.,46,5
+U135,What is garbage collection in managed languages (v8)?,U328,REST API allows communication using HTTP methods.,4,10
+U86,What is tail-call optimization (v8)?,U281,Normalization reduces redundancy and improves data integrity.,20,10
+U155,What is reactive programming (v8)?,U362,Normalization reduces redundancy and improves data integrity.,6,10
+U107,What is a data warehouse (v8)?,U396,Java automatically frees unused objects using garbage collection.,8,6
+U167,What is a data lake (v8)?,U269,Docker is used to containerize applications.,36,9
+U87,What is hyperparameter tuning (v8)?,U374,Normalization reduces redundancy and improves data integrity.,5,16
+U124,Explain k-means clustering (v8)?,U246,Kubernetes manages container orchestration.,49,1
+U61,What is principal component analysis (v8)?,U227,HTTPS encrypts data using SSL/TLS.,40,9
+U187,What is a feature flag (v8)?,U383,Multithreading allows concurrent execution of threads.,16,8
+U14,What is backpressure in streaming systems (v8)?,U377,It provides computing services over the internet.,40,9
+U133,What is a bloom filter (v8)?,U383,Lists are mutable while tuples are immutable.,41,1
+U199,What is a rollback in transactions (v8)?,U237,Multithreading allows concurrent execution of threads.,5,13
+U95,What is a log aggregation system (v8)?,U211,It finds patterns in unlabeled data.,39,15
+U36,What is memoization in programming (v8)?,U238,REST API allows communication using HTTP methods.,32,19
+U167,What is a lambda expression (v8)?,U243,PageRank measures importance of nodes in a graph.,46,13
+U176,What is a binary search tree (v9)?,U376,Kubernetes manages container orchestration.,24,19
+U103,What is Big O notation in algorithms (v9)?,U391,Normalization reduces redundancy and improves data integrity.,31,4
+U46,What is a microservice architecture (v9)?,U398,Docker is used to containerize applications.,50,7
+U143,What is a race condition in multithreading (v9)?,U264,Docker is used to containerize applications.,3,12
+U131,What is a JOIN operation in SQL (v9)?,U368,REST API allows communication using HTTP methods.,22,18
+U47,What is a deadlock in operating systems (v9)?,U398,Overfitting happens when a model memorizes training data.,40,10
+U125,What is a hash table (v9)?,U329,Java automatically frees unused objects using garbage collection.,11,0
+U172,What is a RESTful web service (v9)?,U202,Docker is used to containerize applications.,2,18
+U121,What is a message queue in distributed systems (v9)?,U240,HTTPS encrypts data using SSL/TLS.,8,20
+U71,What is a virtual machine (v9)?,U290,HTTPS encrypts data using SSL/TLS.,50,14
+U174,What is continuous integration (v9)?,U330,It uses labeled data for training models.,11,13
+U164,What is a load balancer (v9)?,U313,"CI/CD automates build, test, and deployment.",22,18
+U58,What is a graph database (v9)?,U218,"CI/CD automates build, test, and deployment.",32,8
+U110,What is a primary key in a database (v9)?,U392,PageRank measures importance of nodes in a graph.,40,11
+U121,What is overfitting in deep learning (v9)?,U302,It finds patterns in unlabeled data.,20,9
+U82,What is transfer learning (v9)?,U213,Overfitting happens when a model memorizes training data.,3,8
+U164,What is a recurrent neural network (v9)?,U310,Kubernetes manages container orchestration.,12,9
+U107,What is a NoSQL database (v9)?,U379,Indexing improves query performance.,14,3
+U23,What is a blockchain (v9)?,U284,Overfitting happens when a model memorizes training data.,27,19
+U114,What is OAuth 2.0 (v9)?,U319,Java automatically frees unused objects using garbage collection.,24,16
+U4,What is a CDN (v9)?,U229,Lists are mutable while tuples are immutable.,32,7
+U10,What is a firewall in networking (v9)?,U383,Normalization reduces redundancy and improves data integrity.,2,6
+U91,What is an API gateway (v9)?,U294,It finds patterns in unlabeled data.,32,19
+U83,What is canary release in DevOps (v9)?,U400,It provides computing services over the internet.,25,11
+U62,What is a monolithic application (v9)?,U380,Normalization reduces redundancy and improves data integrity.,22,7
+U141,What is a design pattern in software engineering (v9)?,U378,It provides computing services over the internet.,41,16
+U173,What is the observer pattern (v9)?,U344,HTTPS encrypts data using SSL/TLS.,28,18
+U122,What is latency vs throughput (v9)?,U387,REST API allows communication using HTTP methods.,20,4
+U197,Explain sharding in databases (v9)?,U351,Normalization reduces redundancy and improves data integrity.,10,6
+U178,What is a distributed cache (v9)?,U288,REST API allows communication using HTTP methods.,38,5
+U171,What is two-factor authentication (v9)?,U260,It finds patterns in unlabeled data.,3,7
+U9,What is cross-site scripting (XSS) (v9)?,U248,HTTPS encrypts data using SSL/TLS.,7,9
+U33,What is serverless computing (v9)?,U368,REST API allows communication using HTTP methods.,19,20
+U115,What is a service mesh (v9)?,U252,REST API allows communication using HTTP methods.,13,6
+U174,What is WebSocket communication (v9)?,U321,It provides computing services over the internet.,49,16
+U110,What is an event loop in JavaScript (v9)?,U364,HTTPS encrypts data using SSL/TLS.,30,14
+U4,What is garbage collection in managed languages (v9)?,U290,It finds patterns in unlabeled data.,13,19
+U167,What is tail-call optimization (v9)?,U233,"CI/CD automates build, test, and deployment.",6,6
+U69,What is reactive programming (v9)?,U292,PageRank measures importance of nodes in a graph.,49,17
+U140,What is a data warehouse (v9)?,U280,PageRank measures importance of nodes in a graph.,42,7
+U173,What is a data lake (v9)?,U219,REST API allows communication using HTTP methods.,17,13
+U89,What is hyperparameter tuning (v9)?,U253,Normalization reduces redundancy and improves data integrity.,18,2
+U13,Explain k-means clustering (v9)?,U231,Multithreading allows concurrent execution of threads.,32,6
+U143,What is principal component analysis (v9)?,U233,Docker is used to containerize applications.,46,11
+U133,What is a feature flag (v9)?,U203,It finds patterns in unlabeled data.,12,11
+U154,What is backpressure in streaming systems (v9)?,U325,Lists are mutable while tuples are immutable.,30,9
+U132,What is a bloom filter (v9)?,U308,It uses labeled data for training models.,48,3
+U103,What is a rollback in transactions (v9)?,U381,Kubernetes manages container orchestration.,20,7
+U128,What is a log aggregation system (v9)?,U217,REST API allows communication using HTTP methods.,12,0
+U49,What is memoization in programming (v9)?,U247,PageRank measures importance of nodes in a graph.,40,4
+U90,What is a lambda expression (v9)?,U259,It uses labeled data for training models.,18,17
+U85,What is a binary search tree (v10)?,U379,It finds patterns in unlabeled data.,13,9
+U107,What is Big O notation in algorithms (v10)?,U389,"CI/CD automates build, test, and deployment.",35,12
+U126,What is a microservice architecture (v10)?,U230,Kubernetes manages container orchestration.,43,20
+U102,What is a race condition in multithreading (v10)?,U219,Multithreading allows concurrent execution of threads.,33,15
+U92,What is a JOIN operation in SQL (v10)?,U331,REST API allows communication using HTTP methods.,25,9
+U97,What is a deadlock in operating systems (v10)?,U227,PageRank measures importance of nodes in a graph.,11,12
+U51,What is a hash table (v10)?,U266,Docker is used to containerize applications.,29,9
+U23,What is a RESTful web service (v10)?,U378,Normalization reduces redundancy and improves data integrity.,25,16
+U31,What is a message queue in distributed systems (v10)?,U295,Multithreading allows concurrent execution of threads.,47,3
+U45,What is a virtual machine (v10)?,U249,It provides computing services over the internet.,19,9
+U22,What is continuous integration (v10)?,U217,It finds patterns in unlabeled data.,26,0
+U109,What is a load balancer (v10)?,U366,HTTPS encrypts data using SSL/TLS.,26,8
+U168,What is a graph database (v10)?,U315,Indexing improves query performance.,25,5
+U187,What is a primary key in a database (v10)?,U312,Docker is used to containerize applications.,42,9
+U115,What is overfitting in deep learning (v10)?,U383,Overfitting happens when a model memorizes training data.,47,17
+U11,What is transfer learning (v10)?,U307,It finds patterns in unlabeled data.,1,0
+U14,What is a recurrent neural network (v10)?,U225,Lists are mutable while tuples are immutable.,11,0
+U77,What is a NoSQL database (v10)?,U330,It finds patterns in unlabeled data.,15,13
+U101,What is a blockchain (v10)?,U297,It provides computing services over the internet.,39,15
+U188,What is OAuth 2.0 (v10)?,U286,It finds patterns in unlabeled data.,36,20
+U95,What is a CDN (v10)?,U290,Multithreading allows concurrent execution of threads.,45,12
+U17,What is a firewall in networking (v10)?,U286,Indexing improves query performance.,23,15
+U156,What is an API gateway (v10)?,U248,Indexing improves query performance.,36,20
+U31,What is canary release in DevOps (v10)?,U207,Java automatically frees unused objects using garbage collection.,32,4
+U114,What is a monolithic application (v10)?,U301,It uses labeled data for training models.,42,7
+U129,What is a design pattern in software engineering (v10)?,U283,Normalization reduces redundancy and improves data integrity.,7,13
+U9,What is the observer pattern (v10)?,U253,HTTPS encrypts data using SSL/TLS.,47,6
+U74,What is latency vs throughput (v10)?,U281,Normalization reduces redundancy and improves data integrity.,3,8
+U180,Explain sharding in databases (v10)?,U274,It provides computing services over the internet.,14,11
+U39,What is a distributed cache (v10)?,U282,Lists are mutable while tuples are immutable.,5,0
+U155,What is two-factor authentication (v10)?,U321,Kubernetes manages container orchestration.,15,19
+U93,What is cross-site scripting (XSS) (v10)?,U258,Java automatically frees unused objects using garbage collection.,2,0
+U137,What is serverless computing (v10)?,U394,"CI/CD automates build, test, and deployment.",5,15
+U9,What is a service mesh (v10)?,U358,Kubernetes manages container orchestration.,19,3
+U121,What is WebSocket communication (v10)?,U240,Overfitting happens when a model memorizes training data.,38,5
+U54,What is an event loop in JavaScript (v10)?,U285,HTTPS encrypts data using SSL/TLS.,29,9
+U62,What is garbage collection in managed languages (v10)?,U380,It uses labeled data for training models.,12,7
+U122,What is tail-call optimization (v10)?,U343,It uses labeled data for training models.,41,5
+U57,What is reactive programming (v10)?,U280,Docker is used to containerize applications.,38,5
+U199,What is a data warehouse (v10)?,U242,HTTPS encrypts data using SSL/TLS.,25,14
+U51,What is a data lake (v10)?,U319,PageRank measures importance of nodes in a graph.,45,16
+U124,What is hyperparameter tuning (v10)?,U285,"CI/CD automates build, test, and deployment.",8,0
+U122,Explain k-means clustering (v10)?,U361,Docker is used to containerize applications.,33,6
+U115,What is principal component analysis (v10)?,U319,It provides computing services over the internet.,47,2
+U70,What is a feature flag (v10)?,U312,Indexing improves query performance.,36,0
+U185,What is backpressure in streaming systems (v10)?,U276,Lists are mutable while tuples are immutable.,2,11
+U21,What is a bloom filter (v10)?,U367,It finds patterns in unlabeled data.,25,14
+U101,What is a rollback in transactions (v10)?,U320,"CI/CD automates build, test, and deployment.",20,3
+U26,What is a log aggregation system (v10)?,U357,Docker is used to containerize applications.,40,15
+U83,What is memoization in programming (v10)?,U298,It provides computing services over the internet.,10,7
+U145,What is a lambda expression (v10)?,U345,Indexing improves query performance.,17,4
+U157,What is a binary search tree (v11)?,U336,It provides computing services over the internet.,24,20
+U34,What is Big O notation in algorithms (v11)?,U260,Java automatically frees unused objects using garbage collection.,41,15
+U199,What is a microservice architecture (v11)?,U215,Multithreading allows concurrent execution of threads.,12,4
+U42,What is a race condition in multithreading (v11)?,U379,Java automatically frees unused objects using garbage collection.,34,9
+U107,What is a JOIN operation in SQL (v11)?,U331,It finds patterns in unlabeled data.,2,6
+U114,What is a deadlock in operating systems (v11)?,U374,It provides computing services over the internet.,24,0
+U157,What is a hash table (v11)?,U270,HTTPS encrypts data using SSL/TLS.,17,19
+U156,What is a RESTful web service (v11)?,U261,PageRank measures importance of nodes in a graph.,9,0
+U199,What is a message queue in distributed systems (v11)?,U275,Java automatically frees unused objects using garbage collection.,19,3
+U45,What is a virtual machine (v11)?,U334,Java automatically frees unused objects using garbage collection.,9,10
+U61,What is continuous integration (v11)?,U379,"CI/CD automates build, test, and deployment.",13,14
+U107,What is a load balancer (v11)?,U389,Lists are mutable while tuples are immutable.,20,9
+U22,What is a graph database (v11)?,U350,"CI/CD automates build, test, and deployment.",13,13
+U99,What is a primary key in a database (v11)?,U341,"CI/CD automates build, test, and deployment.",38,4
+U17,What is overfitting in deep learning (v11)?,U295,Indexing improves query performance.,13,20
+U120,What is transfer learning (v11)?,U378,PageRank measures importance of nodes in a graph.,27,20
+U162,What is a recurrent neural network (v11)?,U235,Lists are mutable while tuples are immutable.,34,8
+U44,What is a NoSQL database (v11)?,U289,It finds patterns in unlabeled data.,48,5
+U180,What is a blockchain (v11)?,U351,Overfitting happens when a model memorizes training data.,19,14
+U33,What is OAuth 2.0 (v11)?,U236,It finds patterns in unlabeled data.,19,2
+U78,What is a CDN (v11)?,U307,Multithreading allows concurrent execution of threads.,7,19
+U40,What is a firewall in networking (v11)?,U242,PageRank measures importance of nodes in a graph.,33,11
+U117,What is an API gateway (v11)?,U269,Kubernetes manages container orchestration.,45,9
+U158,What is canary release in DevOps (v11)?,U260,Kubernetes manages container orchestration.,30,11
+U157,What is a monolithic application (v11)?,U251,HTTPS encrypts data using SSL/TLS.,13,14
+U76,What is a design pattern in software engineering (v11)?,U249,"CI/CD automates build, test, and deployment.",31,19
+U151,What is the observer pattern (v11)?,U353,REST API allows communication using HTTP methods.,25,17
+U13,What is latency vs throughput (v11)?,U393,Normalization reduces redundancy and improves data integrity.,7,0
+U80,Explain sharding in databases (v11)?,U397,Lists are mutable while tuples are immutable.,37,0
+U50,What is a distributed cache (v11)?,U357,Lists are mutable while tuples are immutable.,13,19
+U115,What is two-factor authentication (v11)?,U207,It finds patterns in unlabeled data.,41,18
+U47,What is cross-site scripting (XSS) (v11)?,U241,It uses labeled data for training models.,6,14
+U198,What is serverless computing (v11)?,U286,Normalization reduces redundancy and improves data integrity.,19,2
+U160,What is a service mesh (v11)?,U371,It provides computing services over the internet.,49,20
+U42,What is WebSocket communication (v11)?,U284,PageRank measures importance of nodes in a graph.,38,14
+U11,What is an event loop in JavaScript (v11)?,U226,It provides computing services over the internet.,31,5
+U63,What is garbage collection in managed languages (v11)?,U211,Kubernetes manages container orchestration.,34,7
+U89,What is tail-call optimization (v11)?,U256,Kubernetes manages container orchestration.,9,14
+U22,What is reactive programming (v11)?,U245,Lists are mutable while tuples are immutable.,14,10
+U119,What is a data warehouse (v11)?,U312,REST API allows communication using HTTP methods.,12,7
+U45,What is a data lake (v11)?,U225,PageRank measures importance of nodes in a graph.,40,7
+U143,What is hyperparameter tuning (v11)?,U335,It finds patterns in unlabeled data.,8,1
+U13,Explain k-means clustering (v11)?,U356,Multithreading allows concurrent execution of threads.,43,12
+U169,What is principal component analysis (v11)?,U261,Multithreading allows concurrent execution of threads.,2,3
+U168,What is a feature flag (v11)?,U227,Lists are mutable while tuples are immutable.,3,13
+U107,What is backpressure in streaming systems (v11)?,U240,Normalization reduces redundancy and improves data integrity.,48,8
+U61,What is a bloom filter (v11)?,U373,Normalization reduces redundancy and improves data integrity.,17,14
+U79,What is a rollback in transactions (v11)?,U244,It finds patterns in unlabeled data.,1,3
+U116,What is a log aggregation system (v11)?,U396,Lists are mutable while tuples are immutable.,43,1
+U33,What is memoization in programming (v11)?,U349,It finds patterns in unlabeled data.,7,18
+U95,What is a lambda expression (v11)?,U389,Kubernetes manages container orchestration.,19,9
+U103,What is a binary search tree (v12)?,U206,"CI/CD automates build, test, and deployment.",40,18
+U158,What is Big O notation in algorithms (v12)?,U325,It uses labeled data for training models.,9,6
+U80,What is a microservice architecture (v12)?,U311,HTTPS encrypts data using SSL/TLS.,21,15
+U111,What is a race condition in multithreading (v12)?,U386,Overfitting happens when a model memorizes training data.,10,3
+U154,What is a JOIN operation in SQL (v12)?,U241,Kubernetes manages container orchestration.,32,6
+U146,What is a deadlock in operating systems (v12)?,U237,Java automatically frees unused objects using garbage collection.,11,15
+U50,What is a hash table (v12)?,U259,It provides computing services over the internet.,38,8
+U77,What is a RESTful web service (v12)?,U391,Docker is used to containerize applications.,44,1
+U173,What is a message queue in distributed systems (v12)?,U313,It provides computing services over the internet.,17,10
+U130,What is a virtual machine (v12)?,U238,It uses labeled data for training models.,25,18
+U174,What is continuous integration (v12)?,U351,It provides computing services over the internet.,40,11
+U180,What is a load balancer (v12)?,U251,Normalization reduces redundancy and improves data integrity.,48,3
+U41,What is a graph database (v12)?,U336,Overfitting happens when a model memorizes training data.,28,6
+U44,What is a primary key in a database (v12)?,U260,It uses labeled data for training models.,27,8
+U128,What is overfitting in deep learning (v12)?,U391,Java automatically frees unused objects using garbage collection.,26,11
+U31,What is transfer learning (v12)?,U225,HTTPS encrypts data using SSL/TLS.,44,15
+U78,What is a recurrent neural network (v12)?,U361,Normalization reduces redundancy and improves data integrity.,36,16
+U46,What is a NoSQL database (v12)?,U380,Indexing improves query performance.,49,0
+U5,What is a blockchain (v12)?,U328,It uses labeled data for training models.,2,3
+U185,What is OAuth 2.0 (v12)?,U397,Normalization reduces redundancy and improves data integrity.,4,19
+U161,What is a CDN (v12)?,U372,"CI/CD automates build, test, and deployment.",28,15
+U104,What is a firewall in networking (v12)?,U260,Docker is used to containerize applications.,27,12
+U142,What is an API gateway (v12)?,U364,Lists are mutable while tuples are immutable.,50,15
+U60,What is canary release in DevOps (v12)?,U359,Lists are mutable while tuples are immutable.,20,18
+U111,What is a monolithic application (v12)?,U384,Java automatically frees unused objects using garbage collection.,35,7
+U20,What is a design pattern in software engineering (v12)?,U269,Docker is used to containerize applications.,36,7
+U65,What is the observer pattern (v12)?,U344,Docker is used to containerize applications.,8,10
+U77,What is latency vs throughput (v12)?,U269,It finds patterns in unlabeled data.,12,10
+U61,Explain sharding in databases (v12)?,U239,Docker is used to containerize applications.,13,18
+U159,What is a distributed cache (v12)?,U253,It provides computing services over the internet.,17,2
+U49,What is two-factor authentication (v12)?,U203,Kubernetes manages container orchestration.,29,20
+U170,What is cross-site scripting (XSS) (v12)?,U383,HTTPS encrypts data using SSL/TLS.,48,9
+U24,What is serverless computing (v12)?,U305,Java automatically frees unused objects using garbage collection.,36,2
+U132,What is a service mesh (v12)?,U278,Multithreading allows concurrent execution of threads.,3,4
+U125,What is WebSocket communication (v12)?,U219,Overfitting happens when a model memorizes training data.,35,17
+U48,What is an event loop in JavaScript (v12)?,U320,Overfitting happens when a model memorizes training data.,36,2
+U83,What is garbage collection in managed languages (v12)?,U330,Indexing improves query performance.,8,10
+U19,What is tail-call optimization (v12)?,U312,Multithreading allows concurrent execution of threads.,49,19
+U140,What is reactive programming (v12)?,U280,Indexing improves query performance.,5,8
+U25,What is a data warehouse (v12)?,U395,Overfitting happens when a model memorizes training data.,2,14
+U116,What is a data lake (v12)?,U364,Multithreading allows concurrent execution of threads.,2,19
+U7,What is hyperparameter tuning (v12)?,U237,Normalization reduces redundancy and improves data integrity.,6,17
+U68,Explain k-means clustering (v12)?,U286,Overfitting happens when a model memorizes training data.,22,3
+U33,What is principal component analysis (v12)?,U313,Indexing improves query performance.,13,12
+U192,What is a feature flag (v12)?,U388,Docker is used to containerize applications.,20,14
+U120,What is backpressure in streaming systems (v12)?,U278,Multithreading allows concurrent execution of threads.,36,19
+U30,What is a bloom filter (v12)?,U379,"CI/CD automates build, test, and deployment.",36,8
+U127,What is a rollback in transactions (v12)?,U323,Java automatically frees unused objects using garbage collection.,46,12
+U90,What is a log aggregation system (v12)?,U296,HTTPS encrypts data using SSL/TLS.,4,1
+U32,What is memoization in programming (v12)?,U260,Java automatically frees unused objects using garbage collection.,41,20
+U92,What is a lambda expression (v12)?,U380,Java automatically frees unused objects using garbage collection.,7,15
+U66,What is a binary search tree (v13)?,U269,It finds patterns in unlabeled data.,5,3
+U147,What is Big O notation in algorithms (v13)?,U335,Normalization reduces redundancy and improves data integrity.,8,0
+U24,What is a microservice architecture (v13)?,U227,It uses labeled data for training models.,18,15
+U3,What is a race condition in multithreading (v13)?,U365,Normalization reduces redundancy and improves data integrity.,11,13
+U183,What is a JOIN operation in SQL (v13)?,U289,"CI/CD automates build, test, and deployment.",38,10
+U96,What is a deadlock in operating systems (v13)?,U316,PageRank measures importance of nodes in a graph.,27,13
+U115,What is a hash table (v13)?,U300,REST API allows communication using HTTP methods.,8,8
+U39,What is a RESTful web service (v13)?,U246,PageRank measures importance of nodes in a graph.,44,13
+U62,What is a message queue in distributed systems (v13)?,U246,Normalization reduces redundancy and improves data integrity.,45,15
+U167,What is a virtual machine (v13)?,U373,Indexing improves query performance.,10,0
+U86,What is continuous integration (v13)?,U253,It finds patterns in unlabeled data.,47,1
+U185,What is a load balancer (v13)?,U316,Docker is used to containerize applications.,48,12
+U194,What is a graph database (v13)?,U237,Docker is used to containerize applications.,22,8
+U200,What is a primary key in a database (v13)?,U373,PageRank measures importance of nodes in a graph.,28,4
+U141,What is overfitting in deep learning (v13)?,U263,REST API allows communication using HTTP methods.,12,13
+U189,What is transfer learning (v13)?,U310,It provides computing services over the internet.,28,16
+U96,What is a recurrent neural network (v13)?,U297,Docker is used to containerize applications.,28,7
+U42,What is a NoSQL database (v13)?,U267,Normalization reduces redundancy and improves data integrity.,36,16
+U147,What is a blockchain (v13)?,U294,It uses labeled data for training models.,16,11
+U197,What is OAuth 2.0 (v13)?,U302,Java automatically frees unused objects using garbage collection.,29,12
+U137,What is a CDN (v13)?,U380,REST API allows communication using HTTP methods.,19,3
+U111,What is a firewall in networking (v13)?,U376,Kubernetes manages container orchestration.,28,7
+U167,What is an API gateway (v13)?,U202,It provides computing services over the internet.,25,3
+U181,What is canary release in DevOps (v13)?,U260,Java automatically frees unused objects using garbage collection.,9,11
+U122,What is a monolithic application (v13)?,U258,Kubernetes manages container orchestration.,7,12
+U173,What is a design pattern in software engineering (v13)?,U354,Overfitting happens when a model memorizes training data.,44,17
+U59,What is the observer pattern (v13)?,U240,It uses labeled data for training models.,25,14
+U154,What is latency vs throughput (v13)?,U289,Lists are mutable while tuples are immutable.,41,19
+U114,Explain sharding in databases (v13)?,U383,Multithreading allows concurrent execution of threads.,32,0
+U157,What is a distributed cache (v13)?,U283,REST API allows communication using HTTP methods.,1,10
+U183,What is two-factor authentication (v13)?,U201,It uses labeled data for training models.,39,2
+U168,What is cross-site scripting (XSS) (v13)?,U320,Normalization reduces redundancy and improves data integrity.,10,19
+U87,What is serverless computing (v13)?,U317,Docker is used to containerize applications.,44,15
+U172,What is a service mesh (v13)?,U214,Indexing improves query performance.,11,11
+U61,What is WebSocket communication (v13)?,U206,Kubernetes manages container orchestration.,25,4
+U67,What is an event loop in JavaScript (v13)?,U235,Docker is used to containerize applications.,29,8
+U70,What is garbage collection in managed languages (v13)?,U247,"CI/CD automates build, test, and deployment.",47,3
+U126,What is tail-call optimization (v13)?,U247,It finds patterns in unlabeled data.,37,0
+U172,What is reactive programming (v13)?,U398,It uses labeled data for training models.,46,5
+U168,What is a data warehouse (v13)?,U241,Kubernetes manages container orchestration.,17,12
+U62,What is a data lake (v13)?,U336,Multithreading allows concurrent execution of threads.,28,18
+U33,What is hyperparameter tuning (v13)?,U245,Normalization reduces redundancy and improves data integrity.,9,11
+U165,Explain k-means clustering (v13)?,U271,Kubernetes manages container orchestration.,27,2
+U103,What is principal component analysis (v13)?,U341,Lists are mutable while tuples are immutable.,37,7
+U122,What is a feature flag (v13)?,U215,Indexing improves query performance.,12,9
+U98,What is backpressure in streaming systems (v13)?,U345,REST API allows communication using HTTP methods.,4,9
+U108,What is a bloom filter (v13)?,U267,REST API allows communication using HTTP methods.,3,7
+U178,What is a rollback in transactions (v13)?,U370,Kubernetes manages container orchestration.,20,10
+U84,What is a log aggregation system (v13)?,U235,"CI/CD automates build, test, and deployment.",40,2
+U20,What is memoization in programming (v13)?,U260,HTTPS encrypts data using SSL/TLS.,15,5
+U190,What is a lambda expression (v13)?,U397,REST API allows communication using HTTP methods.,30,14
+U113,What is a binary search tree (v14)?,U367,"CI/CD automates build, test, and deployment.",20,6
+U78,What is Big O notation in algorithms (v14)?,U224,It uses labeled data for training models.,15,19
+U94,What is a microservice architecture (v14)?,U243,Docker is used to containerize applications.,18,15
+U107,What is a race condition in multithreading (v14)?,U272,PageRank measures importance of nodes in a graph.,34,10
+U197,What is a JOIN operation in SQL (v14)?,U318,It uses labeled data for training models.,48,9
+U140,What is a deadlock in operating systems (v14)?,U391,It finds patterns in unlabeled data.,27,8
+U124,What is a hash table (v14)?,U359,PageRank measures importance of nodes in a graph.,26,11
+U11,What is a RESTful web service (v14)?,U215,Lists are mutable while tuples are immutable.,4,7
+U62,What is a message queue in distributed systems (v14)?,U238,HTTPS encrypts data using SSL/TLS.,2,9
+U119,What is a virtual machine (v14)?,U397,Normalization reduces redundancy and improves data integrity.,27,14
+U110,What is continuous integration (v14)?,U259,Multithreading allows concurrent execution of threads.,43,6
+U27,What is a load balancer (v14)?,U333,It finds patterns in unlabeled data.,23,3
+U127,What is a graph database (v14)?,U211,Lists are mutable while tuples are immutable.,39,5
+U160,What is a primary key in a database (v14)?,U360,Normalization reduces redundancy and improves data integrity.,27,0
+U96,What is overfitting in deep learning (v14)?,U234,"CI/CD automates build, test, and deployment.",1,18
+U50,What is transfer learning (v14)?,U257,Java automatically frees unused objects using garbage collection.,15,6
+U6,What is a recurrent neural network (v14)?,U377,Lists are mutable while tuples are immutable.,30,11
+U17,What is a NoSQL database (v14)?,U219,Lists are mutable while tuples are immutable.,49,20
+U131,What is a blockchain (v14)?,U338,Java automatically frees unused objects using garbage collection.,36,10
+U130,What is OAuth 2.0 (v14)?,U323,PageRank measures importance of nodes in a graph.,23,6
+U138,What is a CDN (v14)?,U361,Kubernetes manages container orchestration.,39,1
+U128,What is a firewall in networking (v14)?,U275,Kubernetes manages container orchestration.,9,7
+U164,What is an API gateway (v14)?,U250,It provides computing services over the internet.,17,1
+U84,What is canary release in DevOps (v14)?,U301,REST API allows communication using HTTP methods.,48,1
+U161,What is a monolithic application (v14)?,U367,PageRank measures importance of nodes in a graph.,46,9
+U51,What is a design pattern in software engineering (v14)?,U333,Indexing improves query performance.,16,11
+U160,What is the observer pattern (v14)?,U255,Normalization reduces redundancy and improves data integrity.,5,5
+U50,What is latency vs throughput (v14)?,U209,Multithreading allows concurrent execution of threads.,49,2
+U170,Explain sharding in databases (v14)?,U374,"CI/CD automates build, test, and deployment.",22,2
+U133,What is a distributed cache (v14)?,U250,Lists are mutable while tuples are immutable.,36,4
+U161,What is two-factor authentication (v14)?,U277,Multithreading allows concurrent execution of threads.,33,19
+U72,What is cross-site scripting (XSS) (v14)?,U321,Lists are mutable while tuples are immutable.,21,13
+U74,What is serverless computing (v14)?,U236,Indexing improves query performance.,14,8
+U138,What is a service mesh (v14)?,U301,Docker is used to containerize applications.,43,17
+U83,What is WebSocket communication (v14)?,U233,Overfitting happens when a model memorizes training data.,13,1
+U64,What is an event loop in JavaScript (v14)?,U240,"CI/CD automates build, test, and deployment.",19,11
+U20,What is garbage collection in managed languages (v14)?,U296,Kubernetes manages container orchestration.,32,3
+U163,What is tail-call optimization (v14)?,U260,"CI/CD automates build, test, and deployment.",19,6
+U94,What is reactive programming (v14)?,U228,It provides computing services over the internet.,40,15
+U158,What is a data warehouse (v14)?,U313,It provides computing services over the internet.,4,0
+U15,What is a data lake (v14)?,U383,Docker is used to containerize applications.,11,20
+U193,What is hyperparameter tuning (v14)?,U206,REST API allows communication using HTTP methods.,8,2
+U95,Explain k-means clustering (v14)?,U358,Multithreading allows concurrent execution of threads.,41,7
+U195,What is principal component analysis (v14)?,U345,HTTPS encrypts data using SSL/TLS.,31,19
+U11,What is a feature flag (v14)?,U366,PageRank measures importance of nodes in a graph.,31,17
+U160,What is backpressure in streaming systems (v14)?,U301,Lists are mutable while tuples are immutable.,44,15
+U186,What is a bloom filter (v14)?,U399,It uses labeled data for training models.,44,14
+U192,What is a rollback in transactions (v14)?,U287,HTTPS encrypts data using SSL/TLS.,22,5
+U168,What is a log aggregation system (v14)?,U228,It finds patterns in unlabeled data.,45,16
+U44,What is memoization in programming (v14)?,U363,Kubernetes manages container orchestration.,9,6
+U51,What is a lambda expression (v14)?,U397,It uses labeled data for training models.,17,19
+U78,What is a binary search tree (v15)?,U365,HTTPS encrypts data using SSL/TLS.,31,5
+U106,What is Big O notation in algorithms (v15)?,U263,HTTPS encrypts data using SSL/TLS.,38,3
+U114,What is a microservice architecture (v15)?,U351,Multithreading allows concurrent execution of threads.,32,14
+U161,What is a race condition in multithreading (v15)?,U280,It provides computing services over the internet.,16,12
+U52,What is a JOIN operation in SQL (v15)?,U351,PageRank measures importance of nodes in a graph.,33,7
+U85,What is a deadlock in operating systems (v15)?,U273,Docker is used to containerize applications.,45,18
+U124,What is a hash table (v15)?,U350,It finds patterns in unlabeled data.,16,5
+U180,What is a RESTful web service (v15)?,U397,It finds patterns in unlabeled data.,10,9
+U174,What is a message queue in distributed systems (v15)?,U266,Multithreading allows concurrent execution of threads.,6,13
+U161,What is a virtual machine (v15)?,U325,Multithreading allows concurrent execution of threads.,49,3
+U95,What is continuous integration (v15)?,U331,It uses labeled data for training models.,13,6
+U150,What is a load balancer (v15)?,U294,PageRank measures importance of nodes in a graph.,4,6
+U41,What is a graph database (v15)?,U318,"CI/CD automates build, test, and deployment.",11,7
+U128,What is a primary key in a database (v15)?,U335,PageRank measures importance of nodes in a graph.,41,12
+U17,What is overfitting in deep learning (v15)?,U366,Kubernetes manages container orchestration.,10,6
+U35,What is transfer learning (v15)?,U237,It finds patterns in unlabeled data.,23,8
+U164,What is a recurrent neural network (v15)?,U312,Kubernetes manages container orchestration.,25,18
+U190,What is a NoSQL database (v15)?,U213,Normalization reduces redundancy and improves data integrity.,29,14
+U171,What is a blockchain (v15)?,U293,Indexing improves query performance.,22,7
+U101,What is OAuth 2.0 (v15)?,U375,It finds patterns in unlabeled data.,1,3
+U127,What is a CDN (v15)?,U365,"CI/CD automates build, test, and deployment.",40,12
+U55,What is a firewall in networking (v15)?,U254,REST API allows communication using HTTP methods.,3,18
+U85,What is an API gateway (v15)?,U207,Docker is used to containerize applications.,5,0
+U54,What is canary release in DevOps (v15)?,U367,Multithreading allows concurrent execution of threads.,28,3
+U59,What is a monolithic application (v15)?,U244,Java automatically frees unused objects using garbage collection.,36,20
+U158,What is a design pattern in software engineering (v15)?,U233,Docker is used to containerize applications.,49,6
+U68,What is the observer pattern (v15)?,U264,Indexing improves query performance.,27,15
+U112,What is latency vs throughput (v15)?,U236,Indexing improves query performance.,22,11
+U150,Explain sharding in databases (v15)?,U332,Kubernetes manages container orchestration.,16,2
+U98,What is a distributed cache (v15)?,U297,PageRank measures importance of nodes in a graph.,28,14
+U192,What is two-factor authentication (v15)?,U249,Java automatically frees unused objects using garbage collection.,44,15
+U2,What is cross-site scripting (XSS) (v15)?,U217,PageRank measures importance of nodes in a graph.,19,19
+U190,What is serverless computing (v15)?,U363,It finds patterns in unlabeled data.,29,19
+U152,What is a service mesh (v15)?,U381,Indexing improves query performance.,9,19
+U156,What is WebSocket communication (v15)?,U259,Java automatically frees unused objects using garbage collection.,47,6
+U172,What is an event loop in JavaScript (v15)?,U241,HTTPS encrypts data using SSL/TLS.,34,16
+U64,What is garbage collection in managed languages (v15)?,U214,Kubernetes manages container orchestration.,9,5
+U128,What is tail-call optimization (v15)?,U288,REST API allows communication using HTTP methods.,8,8
+U87,What is reactive programming (v15)?,U253,It provides computing services over the internet.,28,15
+U173,What is a data warehouse (v15)?,U301,Docker is used to containerize applications.,25,17
+U102,What is a data lake (v15)?,U344,HTTPS encrypts data using SSL/TLS.,32,9
